@@ -1,16 +1,15 @@
-### Hi there 👋
+<h2>Olá amigo, Ola amigo...<h2>
 
-<!--
-**pmd1308/pmd1308** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bom, meu nome é Pedro e atualmente estou disposto a aprender qualquer coisa, desde mecânica e manutenção até automatização. Sempre gostei de aprender e fuçar as coisas(era uma criança muito cara), então ler livros e assistir cursos são uns dos meus pricipais hobbies.
 
-Here are some ideas to get you started:
+Eu sou extremamente participativo e adoro ensinar, ter poder e me sentir util, tanto que baseio todo meu estilo de vida em ajudar pessoas que convivo. Acumulei conhecimento na área de exatas, humanas e naturais, tanto que cheguei a traduzir e escrever alguns artigos no site Dio.me, Linkedin e Wikipedia além de ter visto todo o Telecurso Profissionalizante e do Ensino Fundamental/Médio no Youtube e quando garoto.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tenho curso em eletrônica pelo SENAI, e embora não o tenha terminado, tenho conhecimento em manutenção predial, matemática aplicada, conhecimento em desenho técnico e cheguei a fazer trabalhos não remunerados apenas pra quebrar/consertar equipamentos no intuito de aprender.
+
+Me amarro em ler, principalmente livros tecnicos e manuais, não sei se ajuda, mas vou deixar alguns títulos aqui:
+<ul>
+  <li>Quimica, Física, Biologia, Lógica, PNL, Persuação, Economia para Leigos</li>
+  <li>Como Mentir com Estatisticas</li>
+  <li>Rápido e Devegar, Duas Formas de Pensar</li>
+  <li>Sapiens, Homodeus e 21 Lições para o Século 21</li>
+</ul>

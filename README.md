@@ -42,6 +42,9 @@ Espero que você tenha gostado de conhecer um pouco mais sobre mim. Se você tiv
   - [ ] Low Code
   - [ ] Leitura de Logs
   - [ ] Feramentas
+    - Versionamento  
+      - Git
+      - GitHub
     - Estilização
       - Boostrap
       - Wordpress

@@ -46,7 +46,6 @@ Espero que você tenha gostado de conhecer um pouco mais sobre mim. Se você tiv
       - Boostrap
       - Wordpress
         - Elementor(principalmente para Front-End)
-      - PHP
       - Taskade
     - ChatBots
       - Bing

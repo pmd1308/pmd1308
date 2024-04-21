@@ -1,5 +1,6 @@
 # Olá
-<a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/tall/65e3be328947e435e769a333" alt="roadmap.sh" min-width="200px" max-width="400px" width="300px" align="right" /></a>
+<a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/65e3be328947e435e769a333?variant=light" alt="roadmap.sh"  alt="roadmap.sh"  align="right"/></a>
+
 
 <p align="left"> 
 Meu principal interesse é trabalhar em qualquer projeto, já que sou iniciante e não tenho certeza do que seguir. Já realizei trabalhos voluntários como mantenedor no SENAI e como técnico em eletrônica, o que me deu muita prática e responsabilidade, e atualmente estou focado em aprendizado de Front e Mobile.

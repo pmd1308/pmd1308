@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/tall/65e3be328947e435e769a333?variant=dark" alt="roadmap.sh" min-width="200px" max-width="400px" width="400px" align="right"/></a>
 
 <p align="left"> 
 Meu principal interesse é trabalhar em projetos de machine learning, uma área que me fascina e desafia. Já realizei trabalhos voluntários como mantenedor no SENAI e como técnico em eletrônica, o que me deu muita prática e responsabilidade. Acredito que a inteligência artificial é o futuro da tecnologia e quero fazer parte dessa revolução.

@@ -1,4 +1,4 @@
-# Olá
+# Sobre Mim
 
 </p style="display: flex; flex-direction: row; justify-content: center;">
   <a href="pedromotad9@gmail.com" title="Gmail">
@@ -12,58 +12,54 @@
 </p>
 
 
-<div style="display: flex; flex-direction: row;">
-  <div style="flex: 1; padding-right: 20px;">
-    <p>Faço scripts por diversão mesmo, e minha meta é trabalhar com cibersegurança e testes de penetração (Me amarro num estilo de vida pique Watchdogs)</p>
-    <p>Basicamente tudo da lista aprendi sozinho, tanto que não suporto ver cursos (até comprei alguns, mas no final nem assisti pois a maioria era que nem retrovisor em moto), e só comecei a me empenhar em programação depois que saí da minha ultima experiência (Dezembro de 2023).</p>
-    <p>No momento estou estudando apenas as sintaxes das linguagens, então ainda não comecei a de fato modular e rodar. Planejo pegar três estrelas até Agosto, já que rodar é a parte mais rápida para aprender, o duro é a sintaxe e entender a lógica por trás de cada linha.</p>
-  </div>
-  <div style="flex: 1;">
-    <table border="1" style="border-collapse: collapse; width: 100%;">
-      <tr style="background-color: black;">
-        <th style="color: white;">JavaScript</th>
-        <th style="color: white;">Python</th>
-        <th style="color: white;">TI</th>
-        <th style="color: white;">Java</th>
-        <th style="color: white;">Shell Script</th>
-      </tr>
-      <tr>
-        <td style="background-color: #ffa500;">- Criptografia de dados;</td>
-        <td style="background-color: #ff69b4;">- Desenvolvimento de IA generativa;</td>
-        <td style="background-color: #00ced1;">- Administração de redes de computadores;</td>
-        <td style="background-color: #4682b4;">- Desenvolvimento de interfaces gráficas;</td>
-        <td style="background-color: #228b22;">- Linux avançado (bom, pelo menos consigo instalar o Arch se estiver inspirado ;-));</td>
-      </tr>
-      <tr>
-        <td style="background-color: #ffa500;">- Criação de tokens de acesso;</td>
-        <td style="background-color: #ff69b4;">- Implementação de scripts para teste de penetração/invasão.</td>
-        <td style="background-color: #00ced1;">- Gerenciamento de hardware e equipamentos de rede.</td>
-        <td style="background-color: #4682b4;">- Implementação de CRUD para banco de dados;</td>
-        <td style="background-color: #228b22;">- Automação de processos;</td>
-      </tr>
-      <tr>
-        <td style="background-color: #ffa500;">- Manipulação de dados localmente;</td>
-        <td></td>
-        <td></td>
-        <td style="background-color: #4682b4;">- Desenvolvimento de sistemas de autenticação de usuários;</td>
-        <td style="background-color: #228b22;">- Utilização e manipulação de variáveis de ambiente;</td>
-      </tr>
-      <tr>
-        <td style="background-color: #ffa500;">- Configuração de EndPoints no Node.js;</td>
-        <td></td>
-        <td></td>
-        <td style="background-color: #4682b4;">- Tratamento de erros;</td>
-        <td style="background-color: #228b22;">- Configuração e gerenciamento de daemons;</td>
-      </tr>
-      <tr>
-        <td style="background-color: #ffa500;">- Renderização de componentes;</td>
-        <td></td>
-        <td></td>
-        <td style="background-color: #4682b4;">- Manipulação de arquivos;</td>
-        <td style="background-color: #228b22;">- Configuração manual de sistemas e serviços.</td>
-      </tr>
-      <!-- Adicione as outras linhas conforme necessário -->
-    </table>
-  </div>
-</div>
+Eu faço scripts por diversão e estou explorando caminhos na cibersegurança e testes de penetração. Apesar de tratar o estudo de programação mais como um hobby, tenho a meta de aprofundar minhas habilidades e trabalhar profissionalmente na área.
 
+**Interesses Pessoais:**
+- **Cibersegurança**
+- **Desenvolvimento de software**
+- **Autodidatismo em programação**
+
+> "Aprendizado autodidata; descobrindo o caminho através da experimentação e da curiosidade."
+
+## O que já sei
+
+### 1. Desenvolvimento de Software
+**Linguagens e Frameworks:**
+- **Python**: Desenvolvimento de IA generativa, testes de penetração.
+- **Java**: Desenvolvimento de interfaces gráficas, sistemas de autenticação, manipulação de arquivos, multi-threading.
+- **JavaScript/Node.js**: Configuração de EndPoints, renderização de componentes, desenvolvimento com React Native e Electron.
+- **Shell Script**: Processos de automação, configuração e gerenciamento de sistemas e serviços em Linux.
+
+**Front-end e UI/UX:**
+- Desenvolvimento e renderização de componentes web.
+- Validação de dados e tratamento de erros.
+- Injeção em formulários e técnicas de sanitização de dados.
+
+**Back-end e Infraestrutura:**
+- Uso de `worker_threads` para operações em multithread.
+- Implementação e manipulação de CRUD em banco de dados: SQLite3, Java.
+- Criptografia de dados e criação de tokens de acesso.
+- Desenvolvimento de scripts: Testes unitários, localização.
+- Configuração de rotas de navegação e endpoints.
+- Utilização de Web Workers e técnicas avançadas de multi-threading.
+- Gerenciamento de estados e integração de APIs.
+
+### 2. Segurança e Redes
+- Administração e gerenciamento de redes de computadores.
+- Gerenciamento de hardware e equipamentos de rede.
+- Configuração e utilização de variáveis de ambiente.
+- Implementação de segurança em desenvolvimento e criptografia de dados.
+
+### 3. Operações e Manutenção de Sistemas
+- Linux avançado: Instalação e configuração manual de sistemas e serviços.
+- Shell Scripting para automação de tarefas e gerenciamento de daemons.
+
+## Estudos Atuais
+
+Atualmente, estou me concentrando nas sintaxes das linguagens. Embora ainda não tenha começado a modular e rodar aplicações de forma prática, planejo dominar esses aspectos até Agosto. Acredito que, uma vez entendida a sintaxe, a implementação se torna a parte mais fácil.
+
+## Filosofia Pessoal
+
+Minha abordagem pode parecer menos formal, pois uso o LinkedIn como um diário. Prefiro manter minha autenticidade e acredito firmemente que a habilidade de 'brincar' com o trabalho é um sinal de competência e segurança nas próprias habilidades.
+
+Notas Adicionais:

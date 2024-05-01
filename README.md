@@ -60,6 +60,5 @@ Atualmente, estou me concentrando nas sintaxes das linguagens. Embora ainda não
 
 ## Filosofia Pessoal
 
-Minha abordagem pode parecer menos formal, pois uso o LinkedIn como um diário. Prefiro manter minha autenticidade e acredito firmemente que a habilidade de 'brincar' com o trabalho é um sinal de competência e segurança nas próprias habilidades.
-
-Notas Adicionais:
+Minha abordagem pode parecer menos formal, pois uso o LinkedIn como um diário. Prefiro manter minha autenticidade e acredito firmemente que a habilidade de 'brincar' com o trabalho é um sinal de competência e 
+Se faltou profissionalismo na linguagem,é porque utilizo o Linkedin apenas como diario, já que nunca não vejo utilidade para isso e gosto da minha autenticidade. Fora que sempre acreditei que quando a pessoa trabalha brincando situação, é porque ela se garante!

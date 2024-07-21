@@ -1,5 +1,5 @@
 # Sobre Mim
-
+---
 </p style="display: flex; flex-direction: row; justify-content: center;">
   <a href="pedromotad9@gmail.com" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
@@ -11,31 +11,29 @@
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/></a>
 </p>
 
-
-Eu faço scripts por diversão e estou explorando caminhos na cibersegurança e testes de penetração. Apesar de tratar o estudo de programação mais como um hobby, tenho a meta de aprofundar minhas habilidades e trabalhar profissionalmente na área.
-
-**Interesses Pessoais:**
-- **Cibersegurança**
-- **Desenvolvimento de software**
-- **Autodidatismo em programação**
-
-> "Aprendizado autodidata; descobrindo o caminho através da experimentação e da curiosidade."
+Eu faço scripts por diversão e gosto de imaginar formas de testar sistemas e modelar relações entre diferentes 'tokens' mentais (as vezes minha mente é um inferno). Vejo programação mais como um hobby, e francamente, aprendo não com o objetivo de ganhar dinheiro, mas e sim de conseguir modelar matematicamente o mundo e minha mente, e sim, eu adoro estudar estáticas.
 
 ## O que já sei
 
+---
+
 ### 1. Desenvolvimento de Software
-**Linguagens e Frameworks:**
+
+### **Linguagens e Frameworks**
+
 - **Python**: Desenvolvimento de IA generativa, testes de penetração.
 - **Java**: Desenvolvimento de interfaces gráficas, sistemas de autenticação, manipulação de arquivos, multi-threading.
 - **JavaScript/Node.js**: Configuração de EndPoints, renderização de componentes, desenvolvimento com React Native e Electron.
 - **Shell Script**: Processos de automação, configuração e gerenciamento de sistemas e serviços em Linux.
 
-**Front-end e UI/UX:**
+### **Front-end e UI/UX**
+
 - Desenvolvimento e renderização de componentes web.
 - Validação de dados e tratamento de erros.
 - Injeção em formulários e técnicas de sanitização de dados.
 
-**Back-end e Infraestrutura:**
+### **Back-end e Infraestrutura**
+
 - Uso de `worker_threads` para operações em multithread.
 - Implementação e manipulação de CRUD em banco de dados: SQLite3, Java.
 - Criptografia de dados e criação de tokens de acesso.
@@ -45,22 +43,38 @@ Eu faço scripts por diversão e estou explorando caminhos na cibersegurança e 
 - Gerenciamento de estados e integração de APIs.
 
 ### 2. Segurança e Redes
+
 - Administração e gerenciamento de redes de computadores.
 - Gerenciamento de hardware e equipamentos de rede.
 - Configuração e utilização de variáveis de ambiente.
 - Implementação de segurança em desenvolvimento e criptografia de dados.
 
 ### 3. Operações e Manutenção de Sistemas
-- Linux avançado: Instalação e configuração manual de sistemas e serviços.
-- Shell Scripting para automação de tarefas e gerenciamento de daemons.
 
-## Estudos Atuais
+- **Linux Avançado**: Instalação e configuração manual de sistemas e serviços.
+- **Shell Scripting**: Automação de tarefas e gerenciamento de daemons.
 
-Atualmente, estou me concentrando nas sintaxes das linguagens. Embora ainda não tenha começado a modular e rodar aplicações de forma prática, planejo dominar esses aspectos até Agosto. Acredito que, uma vez entendida a sintaxe, a implementação se torna a parte mais fácil.
+### 4. Análise de Dados e Matemática
 
-## Filosofia Pessoal
+### **Principais Métricas e KPIs**
 
-Minha abordagem pode parecer menos formal, pois uso o LinkedIn como um diário. Prefiro manter minha autenticidade e acredito firmemente que a habilidade de 'brincar' com o trabalho é um sinal de competência e 
-Se faltou profissionalismo na linguagem,é porque utilizo o Linkedin apenas como diario, já que nunca não vejo utilidade para isso e gosto da minha autenticidade. Fora que sempre acreditei que quando a pessoa trabalha brincando situação, é porque ela se garante!
+- **KPIs (Key Performance Indicators)**: Medidas que rastreiam o progresso em relação a objetivos específicos de negócios.
+- **Taxa de Conversão**: Métrica usada para avaliar a eficácia na conversão de leads em clientes.
+- **Crescimento das Vendas**: KPI que acompanha o aumento das vendas ao longo de um período específico.
 
+### **Processos e Ferramentas**
+
+- **Análise de Dados**: Processo de inspeção, limpeza e modelagem de dados para descobrir informações úteis.
+- **Preparação e Integração de Dados**: Limpeza, organização e combinação de dados para análise e relatórios.
+
+### **Modelos e Visualização**
+
+- **Modelos de Dados**: Representações estruturadas de dados usadas para análise e relatórios.
+- **Visualização de Dados e Dashboards**: Técnicas para representar dados graficamente e ferramentas interativas que exibem métricas e KPIs.
+
+### **Automação e Eficiência**
+
+- **Automação de Processos e Relatórios**: Uso de tecnologia para realizar tarefas automaticamente e gerar relatórios baseados em critérios predefinidos.
+- **Processos de Análise Automatizada**: Implementação de sistemas automatizados para análise de dados e geração de insights.
+  
 <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/65e3be328947e435e769a333?variant=dark&roadmaps=android%2Cjava%2Cjavascript%2Cpython" alt="roadmap.sh"/></a>

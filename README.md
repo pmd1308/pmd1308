@@ -48,6 +48,10 @@ Eu faço scripts por diversão e gosto de imaginar formas de testar sistemas e m
 - Gerenciamento de hardware e equipamentos de rede.
 - Configuração e utilização de variáveis de ambiente.
 - Implementação de segurança em desenvolvimento e criptografia de dados.
+- Características e Técnicas de Ataques de Cold Boot.
+- Configuração de Dados Temporários e Persistentes.
+- Senha de Administração e Spoofing de MAC: Configuração da senha de administração e técnicas para alterar o endereço MAC da rede.
+- Conexão à Rede Tor e Configuração de Pontes: Conexão ao Tor e uso de pontes para maior privacidade e segurança.
 
 ### 3. Operações e Manutenção de Sistemas
 
